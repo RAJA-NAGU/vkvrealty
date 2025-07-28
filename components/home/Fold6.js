@@ -334,7 +334,7 @@ export default function Fold6() {
 						transition: { duration: 0.3 }
 					}}
 				>
-					Let's turn your land goals into lasting value—with VKV Realty by your side.
+					Let&apos;s turn your land goals into lasting value—with VKV Realty by your side.
 				</motion.span>
 			</motion.div>
 

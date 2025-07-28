@@ -1,6 +1,5 @@
 "use client";
 import { MagneticButton } from "@/components/ui/magnetic-button.tsx";
-import { useEffect } from "react";
 
 export default function FormComponent() {
 	let emailregex = /^[\w-\.]+@([\w-]+\.)+[\w-]{2,4}$/;

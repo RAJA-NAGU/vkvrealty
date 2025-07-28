@@ -121,7 +121,7 @@ export default function Fold4() {
 				className="text-[#7B7B7B] font-['Lexend'] text-center my-[30px]"
 				variants={descriptionVariants}
 			>
-				We're not just talking—we've delivered. Over 30 successful developments across Tamil Nadu stand as proof of our dedication to quality, transparency, and customer delight.
+				We&apos;re not just talking—we&apos;ve delivered. Over 30 successful developments across Tamil Nadu stand as proof of our dedication to quality, transparency, and customer delight.
 			</motion.div>
 
 			{/* Animated Button Container */}
